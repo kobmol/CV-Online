@@ -1,0 +1,35 @@
+#fieldset0{
+    background-color: cyan
+}
+
+#fieldset1{
+    background-color:green
+}
+
+#fieldset2{
+    background-color:yellow
+}
+
+#fieldset3{
+    background-color:violet
+}
+
+.riwayatPekerjaan{
+    color: black
+}
+
+.RiwayatPendidikan{
+    color:black
+}
+
+.personaldata{
+    color: black
+}
+
+table{
+    color: red
+} 
+
+legend{
+    color: green
+}
